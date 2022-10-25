@@ -4,9 +4,8 @@ Strona powstała by szybciej móc pisać z ruskimi. Należy pamiętać, że mamy
 
 Przez ich imperialne podejście do sprawy jest trudno im co kolwiek powiedzieć czy wytłumaczyć. Dlatego podzielę to na działy:
 
-Wojna a nie spec operacja.
+## [Wojna a nie spec operacja](https://github.com/whatsupW/Mobilizacja/blob/main/wojna.md)
 
-Mobilizacja - sprzęt
-
+## [Mobilizacja - sprzęt](https://github.com/whatsupW/Mobilizacja/blob/main/mobilizcja.md)
 
 
