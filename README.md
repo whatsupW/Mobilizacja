@@ -1,0 +1,6 @@
+Imperialne podejście
+
+Mobilizacja - sprzęt
+
+
+
